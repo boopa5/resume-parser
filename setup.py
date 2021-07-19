@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='resume_yoe',
+setup(name='yoe',
       version='1.0',
       description='Testing installation of Package',
       author='Richard Gao',
